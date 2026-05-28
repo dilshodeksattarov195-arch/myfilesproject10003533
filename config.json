@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersender",
+        "uuid": 19109997,
+        "checksum": "wr3fy"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
